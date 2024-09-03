@@ -7,7 +7,7 @@ design:
   background:
     image:
       # Add your image background to `assets/media/`.
-      filename: bg-hue.svg
+      filename: 123.jpg
 
 sections:
   - block: resume-biography
@@ -25,7 +25,7 @@ sections:
         - text: Read my latest paper on LLMs
           icon: academicons/arxiv
           url: https://arxiv.org/abs/2304.01852
-        - text: Watch my new YouTube video to achieve 20x productivity
+        - text: 油管
           icon: brands/youtube
           url: https://youtube.com
         - text: Connect with me on LinkedIn
